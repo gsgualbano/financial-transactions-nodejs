@@ -1,4 +1,4 @@
-<h1 align="center">financial-transactions-nodejs </h1>
+<h1 align="center">financial-transactions-nodejs 💰</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/gsgualbano/financial-transactions-nodejs#readme" target="_blank">
